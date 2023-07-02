@@ -27,7 +27,7 @@ The Flight Tracker is a Python-based tool that allows users to track flights in 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mymadhavyadav07/Flight-Tracker.git
+   git clone https://github.com/shallvhack/Flight-Tracker.git
 2. Install dependencies:
    ```bash
    cd Flight-Tracker
@@ -41,7 +41,7 @@ python3 flight.py
 ```
 
 ## 📷 Screenshot
-![Tool Menu](https://github.com/mymadhavyadav07/Flight-Tracker/blob/b242e798f4f35ee5f377dc4f67df02230ebd38e3/tool.png)
+![Tool Menu](https://github.com/shallvhack/Flight-Tracker/blob/1a6df86d38e6b4a46ec943a2909abe869ed901b4/tool.png)
 
 ## 💪 Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
