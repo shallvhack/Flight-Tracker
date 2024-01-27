@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://shallvhack.github.io"><img src="https://camo.githubusercontent.com/c0dca71e8f9333fa3870ebe0149ea7fd6ca4d27c02504cbef02af1ecf50fc0e2/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f333232343030363932382f313631313038353130332f3135303078353030" /></a>
+  <a href="https://shallvhack.github.io"><img src="https://pbs.twimg.com/profile_banners/3224006928/1611085103/1500x500" /></a>
   <h1>🌟 Flight Tracker 🌟</h1>
    <p>👩‍💻 Author: <a href="https://github.com/mymadhavyadav07">Madhav 👩‍💻</a></p>
 </div>
